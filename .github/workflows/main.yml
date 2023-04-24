@@ -1,2 +1,2 @@
-      - name: Print hello world 
-        run: echo "Hello world" 
+name: Print hello world 
+run: echo "Hello world" 
